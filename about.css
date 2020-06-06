@@ -1,0 +1,24 @@
+.FIRST{
+    text-align: center;
+    color: white !important;
+}
+.card{
+    text-align: center;
+    margin: auto;
+    background-color: rgb(78, 10, 10) !important;
+    color: white;
+    font-weight: bold;
+    /* border-radius: 50pt; */
+    border-radius: 30px;
+    
+}
+.img{
+    overflow: hidden;
+    border-radius: 100%;
+}
+/* img{
+    border-radius: 50pt;
+} */
+body{
+    background-color: rgb(77, 27, 27);
+}
